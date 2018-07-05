@@ -15,30 +15,3 @@ We are on the hala branch!
 We are on the hala branch2!
 We are on the hala branch3!
 
-Hi
-
-This is a reminder that we're on branch hala
-
-hala8
-hala9
-
-
-master10
-
-hala10
-hala11
-
-hala12
-
-hala13
-master11
-hala13
-
-master12
-master14
-master15
-master16
-master17
-master18
-master19
-hala15
