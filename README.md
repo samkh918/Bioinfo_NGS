@@ -1,7 +1,4 @@
 Bioinfo_NGS
 ===========
 
-This is a test
-New line is added
-
-Now on the branch
+This repository contains generatl bioinformatics bash and python scripts
